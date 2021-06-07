@@ -1,1 +1,2 @@
-# Small project from Colt Steele's Udemy Bootcamp
+# Pricing Panel
+Small project from Colt Steele's Udemy Bootcamp
